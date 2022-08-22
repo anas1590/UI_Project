@@ -1,0 +1,382 @@
+.main-outer {
+  padding-top: 330px;
+}
+
+.main-last-div {
+  padding-top: 250px;
+  padding-bottom: 20px;
+}
+
+.main-explore-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: 0.55em;
+  color: rgba(255, 255, 255, 0.7);
+  padding-top: 300px;
+}
+
+.main-large-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: #ffffff;
+}
+
+.main-small-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  opacity: 0.3;
+}
+
+.down-arrow {
+  transform: rotate(90deg);
+  margin-right: -12px;
+}
+
+.back-blur {
+  backdrop-filter: blur(2px);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.nineth-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  opacity: 0.6;
+  transform: rotate(-90deg);
+}
+
+.seventh-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.eight-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+.over {
+  position: relative;
+}
+
+.nav-title-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.2em;
+  color: #ffffff;
+  opacity: 0.9;
+}
+
+.nav-ul-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.main-imgs {
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-image: url("assets/Rectangle\ 1.png");
+}
+
+.main-norway-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12vw;
+  line-height: 305px;
+  letter-spacing: 10px;
+  background: linear-gradient(
+      47.06deg,
+      #000000 -3.87%,
+      rgba(255, 255, 255, 0) 36.89%
+    ),
+    #ffffff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.arrow-div {
+  margin-top: -340px;
+}
+
+.left-line {
+  margin-left: -8px;
+}
+
+.right-line {
+  margin-right: -9px;
+}
+
+.activity-section {
+  padding-bottom: 100px;
+}
+
+.activity-div {
+  position: relative;
+}
+
+.activity-name-text {
+  position: absolute;
+  top: 80%;
+  left: 11%;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: #ffffff;
+}
+
+.activity-no-text {
+  position: absolute;
+  top: 87%;
+  left: 11%;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 0.6);
+  opacity: 0.7;
+}
+
+.movement-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.15em;
+  color: #2d2d2d;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.back-color {
+  background-color: #f4f4f4;
+}
+
+.hotel-appartements {
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+.hotels-div {
+  margin-top: -325px;
+  padding-top: 325px;
+  background-color: #f4f4f4;
+}
+
+.hotels-sub-div {
+  padding-bottom: 100px;
+}
+
+.sixth-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #9b9b9b;
+}
+
+.fifth-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #6d6d6d;
+}
+
+.fourth-text {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-style: normal;
+  color: #3d3d3d;
+}
+
+.inner-text {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: #4e4e4e;
+}
+
+.search-button-text {
+  background: #3d3d3d;
+  letter-spacing: 3px;
+  border-radius: 5px;
+}
+
+.third-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  letter-spacing: 3px;
+  color: #9b9b9b;
+}
+
+.card-city-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.card-price-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #959595;
+}
+
+.card-star {
+  color: #ff9921;
+}
+
+.card-star-null {
+  color: #c4c4c4;
+}
+
+.first-text {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.7em;
+  color: #474747;
+}
+
+.second-text {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: normal;
+  color: #2d2d2d;
+}
+
+.imgs {
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-image: url("assets/GwT7fA1zjwY.png");
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.profile-title {
+  font-family: "Manrope";
+  font-feature-settings: "liga" off;
+  color: #ffffff;
+  opacity: 0.7;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.profile-name {
+  font-family: "Manrope";
+  font-feature-settings: "liga" off;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.arrow-box {
+  border-radius: 10px;
+  font-family: "Roboto";
+  font-feature-settings: "liga" off;
+  color: #474747;
+}
+
+.arrow-box:after {
+  content: " ";
+  width: 0px;
+  height: 0px;
+  border-top: 10px solid #ffffff;
+  border-left: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid transparent;
+  position: absolute;
+  left: 14%;
+  top: 65.9%;
+  margin-left: -10px;
+}
+
+.network {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.above-footer {
+  padding-bottom: 200px;
+}
+
+/* footer*/
+
+.footer {
+  background-color: #f4f4f4;
+}
+
+.footer-list {
+  font-family: "Montserrat";
+  font-style: normal;
+  color: #6d6d6d;
+}
+
+.footer-copyright-text {
+  font-family: "Manrope";
+  font-feature-settings: "liga" off;
+  color: #6d6d6d;
+}
+
+.footer-main-img {
+  margin-top: -58px;
+  padding-left: 8px;
+}
+
+.footer-img1 {
+  position: relative;
+  z-index: 2;
+}
+
+.footer-img2 {
+  position: relative;
+  z-index: 1;
+  left: -24px;
+}
